@@ -1,9 +1,2 @@
-*.js linguist-language=c
-*.css linguist-language=c
-*.html linguist-language=c
-*.java linguist-language=c
-
-*.js linguist-language=c++
-*.css linguist-language=c++
-*.html linguist-language=c++
-*.java linguist-language=c++
+*.cs linguist-language=C#
+*.ico linguist-language=C#
